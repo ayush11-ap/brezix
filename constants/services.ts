@@ -31,7 +31,7 @@ export interface Service {
 export const services: Service[] = [
   {
     id: 1,
-    title: "FuturOS Portfolio™",
+    title: "Custom Portfolio™",
     description: "Transform your online presence with our cutting-edge portfolio solutions",
     projects: [...projects],
     features: [
@@ -55,20 +55,21 @@ export const services: Service[] = [
       {
         id: 1,
         name: "Starter Portfolio",
-        price: 399,
+        price: 3999,
         description: "Clean, crisp & to the point portfolio solution",
         features: [
           "Modern UI/UX design",
-          "Mobile-friendly layout",
+          "Mobile-Responsive layout",
+          "Standard Template Design",
           "Smart contact form",
-          "Basic chatbot support"
+         
         ],
         isPopular: false
       },
       {
         id: 2,
-        name: "FuturOS Portfolio™",
-        price: 599,
+        name: "Dynamic Portfolio™",
+        price: 5999,
         description: "Interactive OS-style website with unique features",
         features: [
           "Desktop-style UI (apps/windows)",
@@ -81,18 +82,19 @@ export const services: Service[] = [
       {
         id: 3,
         name: "3D Story Portfolio",
-        price: 599,
+        price: 8999,
         description: "Visual + immersive experience with 3D elements",
         features: [
           "Scroll-based 3D storytelling",
-          "Stunning motion design",
+          "Stunning 3D design",
           "Interactive sections",
-          "Advanced chatbot support"
+          "Advanced chatbot support",
+          "Free subdomain included"
         ],
         isPopular: false
       }
     ],
-    domainNote: "📌 Free subdomain included. Custom .com/.in domains optional – approx ₹500–1500/year"
+    domainNote: "📌 Free subdomain included. Custom .com/.in domains optional – approx ₹500–1500/year & additional charges for custom features"
   },
   {
     id: 2,
@@ -147,7 +149,7 @@ export const services: Service[] = [
         isPopular: true
       }
     ],
-    domainNote: "📌 Free subdomain included. Custom .com/.in domains optional – approx ₹500–1500/year"
+    domainNote: "📌 Free subdomain included. Custom .com/.in domains optional – approx ₹500–1500/year & additional charges for custom features"
   },
   {
     id: 3,
@@ -175,7 +177,7 @@ export const services: Service[] = [
       {
         id: 1,
         name: "Standard 3D Tour",
-        price: 999,
+        price: 12499,
         description: "Basic immersive tour with first-person view and chatbot",
         features: [
           "360° 3D walkthrough (VR-ready)",
@@ -189,7 +191,7 @@ export const services: Service[] = [
       {
         id: 2,
         name: "Advanced 3D Experience",
-        price: 1499,
+        price: 19999,
         description: "Fully interactive 3D with assistant, customization & checkout",
         features: [
           "Full VR tour + advanced navigation",
@@ -201,7 +203,7 @@ export const services: Service[] = [
         isPopular: true
       }
     ],
-    domainNote: "📌 Free subdomain included. Custom domain optional (₹500–1500/year)"
+    domainNote: "📌 Free subdomain included. Custom .com/.in domains optional – approx ₹500–1500/year & additional charges for custom features"
   },
   {
     id: 4,
@@ -229,7 +231,7 @@ export const services: Service[] = [
       {
         id: 1,
         name: "Smart Starter",
-        price: "₹3499 – ₹4999",
+        price: "₹5999 – ₹9999",
         description: "Get started with AI automation tools for your business",
         features: [
           "AI Chatbot for customer interaction",
@@ -244,7 +246,7 @@ export const services: Service[] = [
       {
         id: 2,
         name: "AI Pro Engine",
-        price: "₹5999 – ₹9999+",
+        price: "₹12999 – ₹19999+",
         description: "Full AI layer – from smart agents to automation workflows",
         features: [
           "GPT-style smart assistant logic",
@@ -328,7 +330,7 @@ export const services: Service[] = [
       {
         id: 1,
         name: "Starter App",
-        price: "₹2,500",
+        price: "₹14,999",
         description: "Basic business app with clean UI and chatbot support – great for cafés, salons, shops, and clinics.",
         features: [
           "Business info page (services, images, contact)",
@@ -342,7 +344,7 @@ export const services: Service[] = [
       {
         id: 2,
         name: "Advanced App",
-        price: "₹4,999",
+        price: "₹29,999",
         description: "Feature-rich daily-use app with smart logic, booking flow, voice chatbot and real estate/product functionality.",
         features: [
           "Real-time booking or scheduling system",
@@ -383,7 +385,7 @@ export const services: Service[] = [
       {
         id: 1,
         name: "Starter Agent",
-        price: "₹599",
+        price: "₹5,999",
         description: "Ideal for small businesses who want to try AI – a basic chatbot or voice agent to answer questions and guide visitors.",
         features: [
           "1 AI Chatbot or Voice Agent",
@@ -396,7 +398,7 @@ export const services: Service[] = [
       {
         id: 2,
         name: "Pro Agent Suite",
-        price: "₹999",
+        price: "₹9,999",
         description: "Add up to 2 AI agents with automation flows, CRM integration, and smart voice/chat assistance.",
         features: [
           "Up to 2 AI agents (chat or voice)",
@@ -409,7 +411,7 @@ export const services: Service[] = [
       {
         id: 3,
         name: "AutoAgentOS Pro+",
-        price: "₹1,499",
+        price: "₹14,999",
         description: "Build your own AI-powered digital team – chat, voice, video agents with workflows, automations, and tool access.",
         features: [
           "Multi-agent system (chat + voice + video)",
