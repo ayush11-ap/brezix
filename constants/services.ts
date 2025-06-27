@@ -38,17 +38,17 @@ export const services: Service[] = [
       {
         title: "Modern Design",
         description: "Clean, crisp & professional UI/UX design that makes your work shine",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750332032/bynpcuidtjtmgndrmk5n.mp4"
       },
       {
         title: "Interactive Experience",
         description: "OS-style interface with smooth animations and immersive interactions",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750332023/kv3gvoxgfpsgm7emrjhb.mp4"
       },
       {
         title: "Smart Features",
         description: "Built-in chatbot support and smart contact forms for better engagement",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750355586/z255vqkbmpfzfrbj3liu.mp4"
       }
     ],
     pricingPlans: [
@@ -101,26 +101,26 @@ export const services: Service[] = [
     projects: [...projects],
     features: [
       {
-        title: "Conversion Focused Design",
-        description: "Modern & responsive layout optimized for capturing leads",
-        videoUrl: "/hero.mp4"
+        title: "Modern Minimalist Design",
+        description: "A modern, responsive layout built with precision UI/UX — optimized to capture leads, impress visitors, and earn instant trust.",
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750332032/bynpcuidtjtmgndrmk5n.mp4"
       },
       {
-        title: "AI-Powered Interactions",
-        description: "Voice input, smart forms & chatbot integrations",
-        videoUrl: "/hero.mp4"
+        title: "Saas/Product Landing Design",
+        description: "A high-converting, feature-rich layout tailored to showcase your product's value — built to drive signups, build credibility, and earn your trust from concept to launch.",
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750332019/zmk43mqyjsb4wr1nzgks.mp4"
       },
       {
-        title: "Marketing-Ready",
-        description: "SEO, CRM tools, and tracking built in for real-world campaigns",
-        videoUrl: "/hero.mp4"
+        title: "3D Landing Design",
+        description: "An immersive, visually striking layout using 3D and interactive elements — crafted to wow your audience, elevate your brand, and show you're building something bold and unforgettable.",
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750332023/kv3gvoxgfpsgm7emrjhb.mp4"
       }
     ],
     pricingPlans: [
       {
         id: 1,
         name: "Basic Launch Page",
-        price: 599,
+        price: 4999,
         description: "Simple & clean landing page for fast deployment",
         features: [
           "Modern static layout",
@@ -134,7 +134,7 @@ export const services: Service[] = [
       {
         id: 2,
         name: "Pro AI Launch Page",
-        price: 999,
+        price: 6999,
         description: "Interactive & AI-powered for lead generation",
         features: [
           "Animated engaging sections",
@@ -158,17 +158,17 @@ export const services: Service[] = [
       {
         title: "360° Virtual Tour",
         description: "Walk through cafés, stores, or properties like you're really there — in full first-person 3D.",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750332023/kv3gvoxgfpsgm7emrjhb.mp4"
       },
       {
         title: "Interactive Product/Service Layers",
         description: "Clickable hotspots for clothes, furniture, menus, rooms, or bookings inside the tour.",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750332019/zmk43mqyjsb4wr1nzgks.mp4"
       },
       {
         title: "AI Sales Assistant",
         description: "Answers visitor questions, guides them via voice, and helps them inquire or book instantly.",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750355586/z255vqkbmpfzfrbj3liu.mp4"
       }
     ],
     pricingPlans: [
@@ -212,27 +212,17 @@ export const services: Service[] = [
       {
         title: "Smart AI Agents",
         description: "Voice/chat agents that answer queries, help book, explain services, or even assist in shopping.",
-        videoUrl: "/hero.mp4"
-      },
-      {
-        title: "Lead Gen + Auto Response",
-        description: "AI handles customer flows – from inquiry to recommendation to capturing data for CRM or follow-up.",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750355586/z255vqkbmpfzfrbj3liu.mp4"
       },
       {
         title: "Custom AI Workflows",
         description: "Appointment booking, product advice, smart dashboards – all powered by GPT-style logic.",
-        videoUrl: "/hero.mp4"
-      },
-      {
-        title: "Tool & Social Integrations",
-        description: "Seamlessly connects with Notion, Calendly, WhatsApp, Google Sheets, and social media platforms for automated follow-ups and re-engagement.",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750355586/z255vqkbmpfzfrbj3liu.mp4"
       },
       {
         title: "Convert Existing App to AI-Powered",
         description: "Already have a site or web app? Add AI layers to automate booking, sales, queries & insights — without starting from scratch.",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750355564/p3bd8wszbeb42cm4s9ns.mp4"
       }
     ],
     pricingPlans: [
@@ -277,29 +267,19 @@ export const services: Service[] = [
     projects: [...projects],
     features: [
       {
-        title: "Solve Business Problems with Tech",
-        description: "From operations to customer engagement — if you have a pain point, we can build a tool to solve it.",
-        videoUrl: "/hero.mp4"
+        title: "Saas & AI Automation",
+        description: "We build AI-powered SaaS tools, CRMs, and internal systems that automate your reports, approvals, and lead tracking — giving you smart, scalable, and high-value solutions tailored to your business.",
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750355586/z255vqkbmpfzfrbj3liu.mp4"
       },
       {
-        title: "Dashboards, CRMs & Internal Tools",
-        description: "Your workflow, visualized and organized – track, manage, and collaborate with fully custom dashboards.",
-        videoUrl: "/hero.mp4"
+        title: "MSME / Local Businesses",
+        description: "From bookings to GST invoicing, local pricing, and feedback — we build smart tools that simplify operations and boost your business growth.",
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750355582/sj9e8k9onszpallle9zn.mp4"
       },
       {
-        title: "SaaS-style Hybrid Platforms",
-        description: "Launch your own web+mobile SaaS – booking systems, learning platforms, analytics tools and more.",
-        videoUrl: "/hero.mp4"
-      },
-      {
-        title: "Mobile + PWA Ready",
-        description: "Get one build that works everywhere – web, tablet & mobile. Optional offline-ready PWA experience.",
-        videoUrl: "/hero.mp4"
-      },
-      {
-        title: "Built Around Your Idea",
-        description: "You bring the idea. We shape it with clean design, smart logic, and scalable architecture – end-to-end.",
-        videoUrl: "/hero.mp4"
+        title: "Build Your Idea —— Apps / Websites",
+        description: "Your vision, our execution — crafted with sleek design, intelligent workflows, and future-ready tech.",
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750355564/p3bd8wszbeb42cm4s9ns.mp4"
       }
     ],
     pricingPlans: [
@@ -331,28 +311,18 @@ export const services: Service[] = [
       {
         title: "Booking & Service Apps",
         description: "From salons to clinics, let users book or schedule with a few taps – includes AI chat for instant interaction.",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750332032/bynpcuidtjtmgndrmk5n.mp4"
       },
       {
         title: "Menu & Order Apps",
         description: "Perfect for cafés, restaurants, or product-based businesses – show your menu/catalog and take orders with ease.",
-        videoUrl: "/hero.mp4"
-      },
-      {
-        title: "Real Estate or Listing Apps",
-        description: "Let users browse, filter, and inquire about listings – all from a modern mobile interface with 24/7 AI agent.",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750332023/kv3gvoxgfpsgm7emrjhb.mp4"
       },
       {
         title: "Website → App Conversion",
         description: "Already have a site? We can turn it into an Android/iOS app without starting from scratch.",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750332019/zmk43mqyjsb4wr1nzgks.mp4"
       },
-      {
-        title: "Voice & Chatbot Assistance",
-        description: "Every app can include voice/chat AI for better UX, faster support, and higher engagement.",
-        videoUrl: "/hero.mp4"
-      }
     ],
     pricingPlans: [
       {
@@ -396,28 +366,18 @@ export const services: Service[] = [
       {
         title: "Sales Chat & Voice Agents",
         description: "Deploy 24/7 smart agents that talk to your customers, answer queries, and collect leads automatically.",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750332032/bynpcuidtjtmgndrmk5n.mp4"
       },
       {
         title: "Booking & WhatsApp Automations",
         description: "Integrate with forms, calendars, or WhatsApp flows – agents book, confirm, and handle next steps.",
-        videoUrl: "/hero.mp4"
-      },
-      {
-        title: "Video Agents (Talk-Face AI)",
-        description: "Create avatar-based explainer agents that engage visually, speak naturally, and collect lead details.",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750332023/kv3gvoxgfpsgm7emrjhb.mp4"
       },
       {
         title: "MCP-Enabled Tools Access",
         description: "Your AI agent connects with Notion, Sheets, CRMs – it can read, update, and respond with live info.",
-        videoUrl: "/hero.mp4"
+        videoUrl: "https://res.cloudinary.com/dc4yjx0dc/video/upload/v1750332019/zmk43mqyjsb4wr1nzgks.mp4"
       },
-      {
-        title: "Workflow Automations",
-        description: "From lead tagging to CRM updates – agents trigger actions based on user queries, selections, or intent.",
-        videoUrl: "/hero.mp4"
-      }
     ],
     pricingPlans: [
       {
